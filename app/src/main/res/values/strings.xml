@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioBoxPro</string>
+    <string name="xposed_description">Mobile Radio App Ad Away</string>
+    <string-array name="scope">
+        <item>com.finallevel.radiobox</item>
+    </string-array>
+</resources>
